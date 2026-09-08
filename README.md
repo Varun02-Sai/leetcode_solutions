@@ -41,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Varun02-Sai/leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Varun02-Sai/leetcode_solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/Varun02-Sai/leetcode_solutions/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
