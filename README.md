@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Varun02-Sai/leetcode_solutions/tree/master/0016-3sum-closest) |
+| [0835-image-overlap](https://github.com/Varun02-Sai/leetcode_solutions/tree/master/0835-image-overlap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3870-count-commas-in-range](https://github.com/Varun02-Sai/leetcode_solutions/tree/master/3870-count-commas-in-range) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/Varun02-Sai/leetcode_solutions/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
